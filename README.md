@@ -1,6 +1,9 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
-# AIM:
+## Developed by:D.SWATHI
+ 
+## RegisterNumber:212222230154
+# Study of basic digital logic gates and verification of truth tables
 
+# AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
 # Equipments Required:
@@ -72,15 +75,7 @@ nor(ynor,a,b);
 xnor(yxnor,a,b);
 endmodule
 ```
-
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-```
-Developed by:D.SWATHI
-RegisterNumber:212222230154
-```
-
-Logic symbol & Truthtable
-RTL realization
+# RTL DIAGRAM
 
 ![image](https://github.com/swathidd/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121300272/d54c7fce-7ffa-4451-b8f9-846580bc238d)
 # Output:
