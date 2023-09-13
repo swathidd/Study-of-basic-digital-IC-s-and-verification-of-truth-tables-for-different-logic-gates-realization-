@@ -75,10 +75,10 @@ nor(ynor,a,b);
 xnor(yxnor,a,b);
 endmodule
 ```
-# RTL DIAGRAM
+# 
 
 ![image](https://github.com/swathidd/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121300272/d54c7fce-7ffa-4451-b8f9-846580bc238d)
-# Output:
+# 
 ![image](https://github.com/swathidd/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121300272/b1bfa1c4-89c5-4f8b-9087-211b7b80b439)
 
 # Result:
