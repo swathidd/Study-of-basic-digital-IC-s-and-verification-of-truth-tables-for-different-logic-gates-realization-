@@ -83,7 +83,8 @@ endmodule
 ![image](https://github.com/swathidd/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121300272/6f069ad4-2bd6-4e19-b186-7986fae6a084)
 
 # RTL realization
-![image](https://github.com/swathidd/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121300272/b1bfa1c4-89c5-4f8b-9087-211b7b80b439)
+![image](https://github.com/swathidd/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121300272/0821dd0a-3239-43e4-b493-1df073571abb)
+
 
 # Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
