@@ -112,7 +112,7 @@ endmodule
 # Truthtable:
 ![image](https://github.com/swathidd/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121300272/6f069ad4-2bd6-4e19-b186-7986fae6a084)
 
-# RTL realization
+# Waveform
 ![image](https://github.com/swathidd/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/121300272/0821dd0a-3239-43e4-b493-1df073571abb)
 
 
